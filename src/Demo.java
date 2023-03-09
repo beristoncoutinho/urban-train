@@ -37,7 +37,7 @@ public class Demo {
 	public int fibonaci() {
 		int num1=0,num2=1,sum=0, size;
 		System.out.print("Enter Range");
-		size=sc.nextInt();
+		size=sc.nextInt()
 		System.out.print(num1);
 		System.out.print(num2);
 		for (int i=1;i<size;i++) {
@@ -62,7 +62,7 @@ public class Demo {
     	 num=sc.nextInt();
     		for(int i=1;i<num/2;i++) {
     			
-    			if (num % i==0) {
+    			if (num % i=0) {
     				
     				return false;
     				
@@ -83,9 +83,9 @@ public class Demo {
      
 			
     	
-     			
+     	
     			public void reverseArray() {
-    				System.out.print("Enter the size of array");
+    				System.out.print("Enter the size of array")
     				int size=sc.nextInt();
     				int [] arr=  new int[size];
     				System.out.print("Enter The Element");
@@ -96,6 +96,7 @@ public class Demo {
     				}
     				for(int i=arr.length-1;i>=0;i--) {
     					System.out.print(arr);
+					System.out.print(arr);
     				}
     				
     			
