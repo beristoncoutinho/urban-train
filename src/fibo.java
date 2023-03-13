@@ -22,7 +22,7 @@ public class fibo {
 		
 	
 
-	return sum;
+	return sum;// returns num
 
 }
 }
