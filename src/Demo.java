@@ -10,6 +10,7 @@ import java.util.Scanner;
  * Creating class Demo
  *
  */
+//gitEddit
 public class Demo {
 	Scanner sc =new Scanner (System.in);
 	/**
