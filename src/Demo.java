@@ -31,8 +31,9 @@ public class Demo {
 		return fact;
 	}
 	/**
-	 * Method which give Fibonacci series for given range 
+	 * 
 	 * Takes user input 
+	 * 
 	 */
 	public int fibonaci() {
 		int num1=0,num2=1,sum=0, size;
