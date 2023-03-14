@@ -29,6 +29,7 @@ public class Demo {
 			
 		}
 		//pusing this file
+		//made minor changes to th file
 		return fact;
 	}
 	/**
@@ -38,7 +39,7 @@ public class Demo {
 	 */
 	public int fibonaci() {
 		int num1=0,num2=1,sum=0, size;
-		System.out.print("Enter Range");
+		
 		size=sc.nextInt()
 		System.out.print(num1);
 		System.out.print(num2);
